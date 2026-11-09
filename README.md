@@ -4,7 +4,7 @@ Independent analysis of **Adani Ports & Special Economic Zone (APSEZ)** using th
 
 > Not an official Adani document. All figures come from public filings and are in Rs crore unless stated.
 
-![Dashboard](screenshots/page1.png)
+![Dashboard](powerbi/page1.png)
 
 ## Business questions
 1. How are revenue, EBITDA and margins trending, and what drives growth?
@@ -39,8 +39,7 @@ Independent analysis of **Adani Ports & Special Economic Zone (APSEZ)** using th
 ```
 data/        APSEZ_Data_Entry_FINAL.xlsx
 sql/         01_create_tables.sql, 02_load_data.sql, 03_validation_checks.sql, 04_analysis_queries.sql
-powerbi/     APSEZ_Dashboard.pbix, APSEZ_Theme.json
-screenshots/ page1.png
+powerbi/     APSEZ_Dashboard.pbix, APSEZ_Dashboard.pdf, page1.png.
 ```
 
 ## How to reproduce
