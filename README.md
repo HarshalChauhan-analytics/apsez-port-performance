@@ -37,10 +37,9 @@ Independent analysis of **Adani Ports & Special Economic Zone (APSEZ)** using th
 
 ## Repository
 ```
-apsez_dashboard.png   dashboard screenshot
 data/        APSEZ_Data_Entry_FINAL.xlsx
 sql/         01_create_tables.sql, 02_load_data.sql, 03_validation_checks.sql, 04_analysis_queries.sql
-powerbi/     apsez_dashboard.png, APSEZ_Dashboard.pdf
+powerbi/     APSEZ_Dashboard.pbix, APSEZ_Dashboard.pdf, apsez_dashboard.png
 ```
 
 ## How to reproduce
