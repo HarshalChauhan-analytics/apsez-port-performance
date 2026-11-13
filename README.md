@@ -4,7 +4,7 @@ Independent analysis of **Adani Ports & Special Economic Zone (APSEZ)** using th
 
 > Not an official Adani document. All figures come from public filings and are in Rs crore unless stated.
 
-![Dashboard](powerbi/page1.png)
+![Dashboard](apsez_dashboard.png)
 
 ## Business questions
 1. How are revenue, EBITDA and margins trending, and what drives growth?
